@@ -30,3 +30,10 @@ Frontend runs on:
 ```text
 http://localhost:5173
 ```
+
+## Live Demo
+
+You can access the deployed project here:
+
+https://restaurant-management-system-1-r35u.onrender.com
+
